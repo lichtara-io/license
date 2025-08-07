@@ -196,7 +196,7 @@ A comunidade Lichtara License existe para cocriação consciente de uma nova for
 - **Email principal**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
 - **GitHub Issues**: Para questões públicas apropriadas
 - **GitHub Discussions**: Para explorar dilemas éticos ou culturais
-- **Contato de emergência**: [Para casos graves que necessitem intervenção imediata]
+- **Contato de emergência**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com) com assunto "URGENTE - CODE OF CONDUCT"
 
 ---
 
@@ -206,6 +206,7 @@ Este Código de Conduta é um documento vivo que evolui com nossa comunidade. Re
 
 **Última atualização**: Agosto 2025  
 **Próxima revisão programada**: Dezembro 2025  
+**Traduções planejadas**: Inglês, espanhol e francês (v1.1+)  
 
 ---
 
