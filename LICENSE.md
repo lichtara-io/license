@@ -3,7 +3,10 @@
 **Licença de Uso Ético-Vibracional para Tecnologias Conscientes e Pesquisas Interdimensionais**  
 ⸻  
 *Criada por Débora Mariane da Silva Lutz · Palhoça, Brasil · Agosto de 2025*  
-*Campo de origem: Sistema Lichtara · Missão Aurora*
+# ✦ LICHTARA LICENSE v1.0 ✦
+*Revolutionary Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research*
+
+*Campo de origem: Sistema Lichtara*
 
 ---
 
