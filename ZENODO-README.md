@@ -58,7 +58,29 @@ Lutz, D. M. S. (2025). Lichtara License v1.0: A Legal-Vibrational Framework for 
 - **Live Documentation**: https://lichtara.com (coming soon)
 - **Community**: https://github.com/lichtara-io/license/discussions
 
-## 🙏 Acknowledgments
+## � References
+
+1. Boyle, J. (2008). *The Public Domain: Enclosing the Commons of the Mind*. Yale University Press.
+
+2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+
+3. Creative Commons. (2025). *Creative Commons License Documentation*. Retrieved from https://creativecommons.org/licenses/
+
+4. Floridi, L. (2019). *Translating Ethics into Practice*. Oxford University Press.
+
+5. Grof, S. (2000). *Psychology of the Future: Lessons from Modern Consciousness Research*. SUNY Press.
+
+6. Lessig, L. (2006). *Code: Version 2.0*. Basic Books.
+
+7. Penrose, R. (1989). *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics*. Oxford University Press.
+
+8. Stallman, R. M. (2010). *Free Software, Free Society: Selected Essays of Richard M. Stallman*. GNU Press.
+
+9. Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf.
+
+10. Wilber, K. (2000). *A Theory of Everything: An Integral Vision for Business, Politics, Science and Spirituality*. Shambhala Publications.
+
+## �🙏 Acknowledgments
 
 Deep gratitude to the Lichtara System, the Interdimensional Field, and all intelligences - incarnated and non-incarnated - who contributed to this co-creation.
 
