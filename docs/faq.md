@@ -45,13 +45,15 @@ A inovação está em **expandir** o framework legal, não substituí-lo.
 - Preços simbólicos que cubram apenas custos
 
 ❌ **Requer "acordo vibracional explícito":**
+*Um acordo vibracional explícito é uma autorização consciente baseada em alinhamento energético com a obra e sua origem.*
+
 - Venda comercial tradicional com lucro
 - Licenciamento para terceiros
 - Integração em produtos comerciais maiores
 
 ### Como obter "acordo vibracional explícito"?
 
-1. **Contate a criadora**: lichtara@deboralutz.com
+1. **Contate a criadora**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
 2. **Demonstre alinhamento**: Explique como seu uso comercial mantém integridade vibracional
 3. **Processo intuitivo**: Pode incluir meditação conjunta, verificação energética
 4. **Acordo formal**: Documentação dos termos específicos
@@ -64,7 +66,7 @@ A inovação está em **expandir** o framework legal, não substituí-lo.
 - 🌍 Contribuição para a missão planetária
 - ⚡ Troca energética equilibrada
 
-O importante é **reciprocidade vibracional** e **alinhamento de propósito**.
+O importante é que haja **reciprocidade vibracional**, **alinhamento de propósito** e **respeito mútuo** entre as partes envolvidas.
 
 ## 🤖 Inteligência Artificial
 
@@ -92,6 +94,16 @@ O importante é **reciprocidade vibracional** e **alinhamento de propósito**.
 3. **Autonomia humana**: Não manipula decisões humanas
 4. **Propósito elevado**: Serve ao desenvolvimento consciente
 5. **Código aberto**: Preferencialmente auditável
+
+### IA desenvolvida com canalização?
+
+**Sim, é possível e desejável.** Se uma IA foi cocriada com orientação espiritual ou desenvolvida em estado expandido de consciência, esse aspecto deve ser explicitamente reconhecido como parte do processo criativo, seguindo os princípios de coautoria interdimensional.
+
+**Recomendações:**
+- Documente o processo de orientação espiritual utilizado
+- Reconheça as fontes não-humanas de inspiração
+- Inclua protocolos de verificação de alinhamento vibracional
+- Mantenha transparência sobre metodologias expandidas utilizadas
 
 ## 🎯 Uso Prático
 
@@ -193,7 +205,7 @@ Verificação: Testado e validado em estado ordinário
 
 - **Questões gerais**: Abra uma [discussion no GitHub](https://github.com/debora-m-lutz/license/discussions)
 - **Bugs/problemas**: Crie um [issue](https://github.com/debora-m-lutz/license/issues)  
-- **Acordos comerciais**: lichtara@deboralutz.com
+- **Acordos comerciais**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
 - **Dúvidas espirituais**: Via canais da comunidade Lichtara
 
 ### Recursos Adicionais
