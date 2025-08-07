@@ -114,6 +114,14 @@ Palhoça, Agosto de 2025
 
 ---
 
+## 📚 Citação
+
+Para citar esta licença em trabalhos acadêmicos:
+
+**Lutz, D. M. S. (2025). Lichtara License v1.0: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research. Zenodo. https://doi.org/10.5281/zenodo.16762058**
+
+---
+
 ## 📚 Recursos Complementares
 
 Para dúvidas ou orientação prática sobre implementação desta licença:
