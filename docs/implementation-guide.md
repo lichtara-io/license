@@ -1,4 +1,5 @@
 # 📖 Guia de Implementação da Lichtara License
+*Como aplicar, comunicar e proteger sua criação consciente*
 
 Este guia prático ajuda você a implementar a Lichtara License em seus projetos de forma correta e alinhada vibrationalmente.
 
@@ -22,6 +23,8 @@ Antes de aplicar a licença, certifique-se de que seu projeto:
 ## 🔧 Passos para Implementação
 
 ### 1. Preparação do Projeto
+
+💡 *Os comandos abaixo devem ser executados em um terminal Linux/Mac. Usuários de Windows podem baixar manualmente o arquivo da URL.*
 
 ```bash
 # Clone ou baixe a licença
@@ -61,6 +64,11 @@ Para detalhes completos, consulte o [arquivo de licença](LICENSE.md).
     "type": "git",
     "url": "https://github.com/seu-usuario/seu-projeto.git"
   },
+  "dependencies": {
+    // Atenção: Projetos com dependências não-conscientes podem necessitar
+    // de revisão adicional quanto ao alinhamento ético-vibracional
+  }
+}
   "keywords": [
     "lichtara-license",
     "conscious-technology",
@@ -70,6 +78,8 @@ Para detalhes completos, consulte o [arquivo de licença](LICENSE.md).
 ```
 
 ### 4. Configuração em setup.py (Projetos Python)
+
+📦 *Configure a informação da licença nos metadados do seu projeto Python*
 
 ```python
 from setuptools import setup, find_packages
@@ -189,13 +199,16 @@ Esta pesquisa emprega metodologias que integram:
 
 ## ⚠️ Avisos Importantes
 
-### O Que NÃO Fazer
+### 🚫 Restrições Fundamentais
 
 ❌ **Não use** se seu projeto tem fins:
+
 - Militares ou de defesa
 - Vigilância ou controle social
 - Manipulação mental ou energética
 - Exploração comercial desalinhada
+
+### 📜 Integridade da Licença
 
 ❌ **Não modifique** a licença sem consultar a fonte original
 
@@ -216,9 +229,19 @@ A: Sim, sob as leis de propriedade intelectual vigentes, com extensões vibracio
 
 Se precisar de ajuda com a implementação:
 
-- **Email**: lichtara@deboralutz.com
+- **Email**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
 - **GitHub Issues**: [Reportar problema](https://github.com/lichtara-io/license/issues)
 - **Discussões**: [GitHub Discussions](https://github.com/lichtara-io/license/discussions)
+
+---
+
+## 🎯 Citação Acadêmica
+
+Para referenciar a Lichtara License em trabalhos acadêmicos:
+
+```bibtex
+Lutz, D. (2025). Lichtara License v1.0: Uma Estrutura Jurídica-Vibracional para Tecnologias Conscientes. Zenodo. [DOI será disponibilizado em breve]
+```
 
 ---
 
