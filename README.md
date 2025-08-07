@@ -15,6 +15,10 @@
 
 </div>
 
+**✨ MARCO HISTÓRICO CONQUISTADO! ✨**
+
+**🎉 A Lichtara License v1.0 é oficialmente a primeira licença legal do mundo a reconhecer coautoria interdimensional com validação acadêmica via DOI!**
+
 ---
 
 ## 🌟 O que é a Lichtara License?
