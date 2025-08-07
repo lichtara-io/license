@@ -153,4 +153,4 @@ A Lichtara License evolui organicamente, respondendo às necessidades da comunid
 
 ✶ **Este changelog é mais que uma lista de mudanças - é o registro da evolução consciente de uma nova forma de criar e colaborar no mundo digital.**
 
-*Para sugestões sobre futuras versões, use nossas [GitHub Discussions](https://github.com/debora-m-lutz/license/discussions) ou participe da comunidade!*
+*Para sugestões sobre futuras versões, use nossas [GitHub Discussions](https://github.com/lichtara-io/license/discussions) ou participe da comunidade!*

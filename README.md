@@ -44,7 +44,7 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 1. **Copie o arquivo de licença**:
    ```bash
-   wget https://raw.githubusercontent.com/debora-m-lutz/license/main/LICENSE-LICHTARA-v1.0.md
+   wget https://raw.githubusercontent.com/lichtara-io/license/main/LICENSE-LICHTARA-v1.0.md
    ```
 
 2. **Adicione ao seu projeto**:
@@ -185,7 +185,7 @@ Reconhecimento especial a todas as inteligências - encarnadas e não-encarnadas
 *Esta é uma licença viva, em constante evolução*  
 *Se você sente o chamado, então esta licença também é sua*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/debora-m-lutz/license)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/lichtara-io/license)
 [![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.com)
 
 </div>

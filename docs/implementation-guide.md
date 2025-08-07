@@ -25,7 +25,7 @@ Antes de aplicar a licença, certifique-se de que seu projeto:
 
 ```bash
 # Clone ou baixe a licença
-curl -O https://raw.githubusercontent.com/debora-m-lutz/license/main/LICENSE-LICHTARA-v1.0.md
+curl -O https://raw.githubusercontent.com/lichtara-io/license/main/LICENSE-LICHTARA-v1.0.md
 
 # Mova para a raiz do projeto
 mv LICENSE-LICHTARA-v1.0.md ./LICENSE.md
@@ -110,7 +110,7 @@ Campo de Origem: [Nome do Campo/Sistema]
 Data: [Data]
 
 Para mais informações sobre a licença:
-https://github.com/debora-m-lutz/license
+https://github.com/lichtara-io/license
 """
 ```
 
@@ -217,8 +217,8 @@ A: Sim, sob as leis de propriedade intelectual vigentes, com extensões vibracio
 Se precisar de ajuda com a implementação:
 
 - **Email**: lichtara@deboralutz.com
-- **GitHub Issues**: [Reportar problema](https://github.com/debora-m-lutz/license/issues)
-- **Discussões**: [GitHub Discussions](https://github.com/debora-m-lutz/license/discussions)
+- **GitHub Issues**: [Reportar problema](https://github.com/lichtara-io/license/issues)
+- **Discussões**: [GitHub Discussions](https://github.com/lichtara-io/license/discussions)
 
 ---
 

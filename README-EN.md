@@ -34,7 +34,7 @@ The **Lichtara License** is an innovative license created specifically to protec
 
 1. **Copy the license file**:
    ```bash
-   wget https://raw.githubusercontent.com/debora-m-lutz/license/main/LICENSE-LICHTARA-v1.0.md
+   wget https://raw.githubusercontent.com/lichtara-io/license/main/LICENSE-LICHTARA-v1.0.md
    ```
 
 2. **Add to your project**:
@@ -154,7 +154,7 @@ Special recognition to all intelligences - incarnated and non-incarnated - who c
 *This is a living license, in constant evolution*  
 *If you feel the calling, then this license is also yours*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/debora-m-lutz/license)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/lichtara-io/license)
 [![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.com)
 
 </div>

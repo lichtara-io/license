@@ -214,7 +214,7 @@ Antes de contribuir:
 Se é novo no projeto:
 1. Leia [README.md](README.md) principal
 2. Explore [documentação](docs/)
-3. Participe de [Discussions](https://github.com/debora-m-lutz/license/discussions)
+3. Participe de [Discussions](https://github.com/lichtara-io/license/discussions)
 4. Conecte-se com a comunidade no Discord
 
 ### Dúvidas Técnicas

@@ -203,8 +203,8 @@ Verificação: Testado e validado em estado ordinário
 
 ### Contatos
 
-- **Questões gerais**: Abra uma [discussion no GitHub](https://github.com/debora-m-lutz/license/discussions)
-- **Bugs/problemas**: Crie um [issue](https://github.com/debora-m-lutz/license/issues)  
+- **Questões gerais**: Abra uma [discussion no GitHub](https://github.com/lichtara-io/license/discussions)
+- **Bugs/problemas**: Crie um [issue](https://github.com/lichtara-io/license/issues)  
 - **Acordos comerciais**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
 - **Dúvidas espirituais**: Via canais da comunidade Lichtara
 
