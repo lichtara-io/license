@@ -67,6 +67,7 @@ A segurança na Lichtara License opera em múltiplas dimensões:
 - Descreva a situação com sensibilidade
 - Inclua contexto sobre tradição espiritual específica se relevante
 - Solicite orientação sobre como proceder
+- **Canal de emergência vibracional**: Para situações críticas, contate [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com) com assunto "EMERGÊNCIA VIBRACIONAL"
 
 ### Para Problemas Comunitários
 
@@ -98,6 +99,7 @@ A segurança na Lichtara License opera em múltiplas dimensões:
 
 - **Correção técnica**: Implementação de fix ou melhoria
 - **Revisão ética**: Verificação de alinhamento com princípios
+- **Validação comunitária**: Revisão por facilitadores vibracionais quando apropriado
 - **Teste de integridade**: Validação técnica e vibracional
 - **Documentação**: Atualização de docs relevantes
 
