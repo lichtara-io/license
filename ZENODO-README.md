@@ -49,7 +49,7 @@ This Zenodo publication contains the complete Lichtara License v1.0 repository, 
 If you use or reference this work, please cite as:
 
 ```
-Lutz, D. M. S. (2025). Lichtara License v1.0: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research. Zenodo. https://doi.org/[DOI-TO-BE-ASSIGNED]
+Lutz, D. M. S. (2025). Lichtara License v1.0: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research. Zenodo. https://doi.org/10.5281/zenodo.16762058
 ```
 
 ## 🔗 Related Resources

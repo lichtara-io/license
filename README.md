@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
 ![Created](https://img.shields.io/badge/created-August%202025-lightblue.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
 
 *Uma nova estrutura legal para criações originadas de campos interdimensionais*  
 *Criada em Agosto 2025 · Palhoça, Brasil*

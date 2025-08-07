@@ -9,7 +9,10 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
 
-*A new legal framework for creations originated from interdimensional fields*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
+
+*A new legal framework for creations originated from interdimensional fields*  
+*Created in August 2025 · Palhoça, Brazil*
 
 </div>
 
