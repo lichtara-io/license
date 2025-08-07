@@ -1,0 +1,77 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+vendor/
+.bundle/
+
+# Build outputs
+dist/
+build/
+public/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.cache/
+.tmp/
+.temp/
+
+# Documentation builds
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Language specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Personal notes (not for public repo)
+NOTES.md
+TODO-PRIVATE.md
+drafts/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files during development
+*.tmp
+*.temp
+scratch/
+test-files/
+
+# Mac specific
+.AppleDouble
+.LSOverride
+
+# Windows specific
+desktop.ini
