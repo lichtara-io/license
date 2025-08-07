@@ -51,7 +51,7 @@ A inovação está em **expandir** o framework legal, não substituí-lo.
 
 ### Como obter "acordo vibracional explícito"?
 
-1. **Contate a criadora**: license@lichtara.io
+1. **Contate a criadora**: lichtara@deboralutz.com
 2. **Demonstre alinhamento**: Explique como seu uso comercial mantém integridade vibracional
 3. **Processo intuitivo**: Pode incluir meditação conjunta, verificação energética
 4. **Acordo formal**: Documentação dos termos específicos
@@ -193,7 +193,7 @@ Verificação: Testado e validado em estado ordinário
 
 - **Questões gerais**: Abra uma [discussion no GitHub](https://github.com/debora-m-lutz/license/discussions)
 - **Bugs/problemas**: Crie um [issue](https://github.com/debora-m-lutz/license/issues)  
-- **Acordos comerciais**: license@lichtara.io
+- **Acordos comerciais**: lichtara@deboralutz.com
 - **Dúvidas espirituais**: Via canais da comunidade Lichtara
 
 ### Recursos Adicionais

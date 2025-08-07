@@ -71,7 +71,7 @@ Toda menção, redistribuição ou derivação deve incluir:
 
 - Nome da autora: **Débora Mariane da Silva Lutz**
 - Campo de origem: **Sistema Lichtara**
-- Link para a licença: `https://github.com/lichtara-io/license`
+- Link para a licença: `https://github.com/debora-m-lutz/license`
 - Data da versão: **Agosto 2025**
 - Selo vibracional (quando possível): ✶
 

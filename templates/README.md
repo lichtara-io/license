@@ -61,7 +61,7 @@ Se precisar de ajuda com os templates:
 
 - **Issues**: Reporte problemas ou sugestões
 - **Discussions**: Compartilhe adaptações interessantes
-- **Email**: license@lichtara.io para casos complexos
+- **Email**: lichtara@deboralutz.com para casos complexos
 
 ---
 

@@ -98,7 +98,7 @@ We love vibrationally aligned contributions! See our **[Contributing Guide](CONT
 
 - **Discord**: [Lichtara Community](https://discord.gg/lichtara)
 - **Telegram**: [@LichtaraLicense](https://t.me/lichtaralicense)
-- **Website**: [lichtara.io](https://lichtara.io)
+- **Website**: [lichtara.com](https://lichtara.com)
 
 ---
 
@@ -106,7 +106,7 @@ We love vibrationally aligned contributions! See our **[Contributing Guide](CONT
 
 ### Contact
 
-- **Email**: license@lichtara.io
+- **Email**: lichtara@deboralutz.com
 - **Creator**: Débora Mariane da Silva Lutz
 - **Location**: Palhoça, Brazil
 
@@ -155,7 +155,7 @@ Special recognition to all intelligences - incarnated and non-incarnated - who c
 *If you feel the calling, then this license is also yours*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/debora-m-lutz/license)
-[![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.io)
+[![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.com)
 
 </div>
 

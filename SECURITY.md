@@ -50,7 +50,7 @@ A segurança na Lichtara License opera em múltiplas dimensões:
 
 **Vulnerabilidades Sensitivas** (com risco de exploração):
 - **NÃO** abra issue público
-- Envie email para: security@lichtara.io
+- Envie email para: security@deboralutz.com
 - Inclua: descrição detalhada, passos para reprodução, impacto potencial
 - Aguarde confirmação antes de divulgação pública
 
@@ -70,7 +70,7 @@ A segurança na Lichtara License opera em múltiplas dimensões:
 
 ### Para Problemas Comunitários
 
-- **Situações urgentes**: security@lichtara.io
+- **Situações urgentes**: lichtara@deboralutz.com
 - **Conflitos gerais**: Use moderação dos canais
 - **Comportamentos inadequados**: Reporte aos moderadores
 - **Preocupações éticas**: Discussion "Community Guidelines"
@@ -156,17 +156,17 @@ Oferecemos gratidão genuína e reconhecimento da comunidade!
 ## 📞 Contatos de Emergência
 
 ### Técnico
-- **Email**: security@lichtara.io
+- **Email**: lichtara@deboralutz.com
 - **GitHub**: @debora-m-lutz
 - **Backup**: Através dos canais oficiais da comunidade
 
 ### Vibracional/Espiritual
 - **Comunidade Lichtara**: Canais oficiais
 - **Consulta direta**: Através dos facilitadores identificados
-- **Emergências**: security@lichtara.io com assunto "VIBRATIONAL SECURITY"
+- **Emergências**: lichtara@deboralutz.com com assunto "VIBRATIONAL SECURITY"
 
 ### Legal/Ético
-- **Questões jurídicas**: security@lichtara.io
+- **Questões jurídicas**: lichtara@deboralutz.com
 - **Dilemas éticos**: Use GitHub Discussions
 - **Conflitos de interpretação**: Consulte documentação ou comunidade
 

@@ -216,7 +216,7 @@ A: Sim, sob as leis de propriedade intelectual vigentes, com extensões vibracio
 
 Se precisar de ajuda com a implementação:
 
-- **Email**: license@lichtara.io
+- **Email**: lichtara@deboralutz.com
 - **GitHub Issues**: [Reportar problema](https://github.com/debora-m-lutz/license/issues)
 - **Discussões**: [GitHub Discussions](https://github.com/debora-m-lutz/license/discussions)
 

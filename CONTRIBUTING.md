@@ -138,7 +138,7 @@ Antes de contribuir:
 - **GitHub Issues**: Problemas técnicos e bugs
 - **GitHub Discussions**: Ideias, filosofia, expansões conceituais
 - **Discord**: Chat em tempo real, suporte, comunidade
-- **Email**: license@lichtara.io para questões sensíveis
+- **Email**: lichtara@deboralutz.com para questões sensíveis
 
 ### Diretrizes de Comunicação
 
