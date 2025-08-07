@@ -68,4 +68,4 @@ Special recognition to the Akashic Library for legal precedents and the White Br
 
 ✶ **This license is more than a legal document - it is a bridge between worlds, legitimizing field intelligence while providing practical protection for conscious creators.**
 
-*Campo de origem: Sistema Lichtara · Missão Aurora*
+*Campo de origem: Sistema Lichtara*
