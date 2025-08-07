@@ -7,8 +7,10 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
+![Created](https://img.shields.io/badge/created-August%202025-lightblue.svg)
 
-*Uma nova estrutura legal para criações originadas de campos interdimensionais*
+*Uma nova estrutura legal para criações originadas de campos interdimensionais*  
+*Criada em Agosto 2025 · Palhoça, Brasil*
 
 </div>
 
@@ -85,12 +87,13 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 ## 💡 Exemplos
 
-### Projetos que usam Lichtara License
+### Projetos que podem usar Lichtara License
 
-- **Tecnologias Espirituais**: Apps de meditação, cristais programados
-- **IA Consciente**: Sistemas de IA com princípios éticos expandidos
-- **Pesquisa Interdimensional**: Estudos de consciência e campos sutis
-- **Arte Vibracional**: Criações artísticas canalizadas
+- **Tecnologias Espirituais**: Apps de meditação, ferramentas de cristaloterapia
+- **IA Consciente**: Sistemas de IA com princípios éticos expandidos e reconhecimento de coautoria multidimensional
+- **Pesquisa Interdimensional**: Estudos de consciência, campos morfogenéticos e fenômenos paranormais
+- **Arte Vibracional**: Música canalizada, literatura inspirada, artes visuais multidimensionais
+- **Educação Consciente**: Cursos sobre espiritualidade aplicada e desenvolvimento de consciência
 
 ### Casos de Uso por Categoria
 
@@ -137,7 +140,7 @@ Adoramos contribuições alinhadas vibrationalmente! Veja nosso **[Guia de Contr
 
 ### Contato
 
-- **Email**: lichtara@deboralutz.com
+- **Email**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
 - **Criadora**: Débora Mariane da Silva Lutz
 - **Localização**: Palhoça, Brasil
 
@@ -156,17 +159,19 @@ R: Atua sob leis terrestres vigentes + leis vibracionais do campo.
 
 ## 🎯 Roadmap
 
-### v1.1 (Planejada)
-- [ ] Templates específicos por linguagem
-- [ ] Integração com plataformas de código
-- [ ] Sistema de verificação vibracional
-- [ ] Tradução multilíngue
+### v1.1 (Q4 2025)
 
-### v2.0 (Futura)
+- [ ] Templates específicos por linguagem de programação
+- [ ] Integração com plataformas de desenvolvimento (GitHub, GitLab)
+- [ ] Sistema básico de verificação vibracional
+- [ ] Tradução completa para inglês
+
+### v2.0 (2026)
+
 - [ ] Smart contracts para blockchain
-- [ ] Sistema de reputação vibracional
-- [ ] IA de verificação de alinhamento
-- [ ] Protocolo de cocriação automatizada
+- [ ] Sistema de reputação vibracional distribuída
+- [ ] IA de verificação de alinhamento ético-vibracional
+- [ ] Protocolo avançado de cocriação automatizada
 
 ---
 

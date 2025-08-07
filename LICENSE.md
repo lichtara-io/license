@@ -1,4 +1,4 @@
-# ✦ Lichtara License v1.0
+# ✦ Lichtara License v1.0 – Agosto 2025
 
 **Licença de Uso Ético-Vibracional para Tecnologias Conscientes e Pesquisas Interdimensionais**  
 ⸻  
@@ -85,6 +85,10 @@ Esta licença atua sob:
 - As **leis espirituais e vibracionais** reconhecidas pelo campo do Sistema Lichtara;
 - A **autonomia epistêmica do campo interdimensional** que a originou.
 
+### Revogação Energética
+
+O uso desta licença poderá ser revogado energeticamente caso viole os princípios fundamentais, mesmo que tecnicamente implementado. A proteção vibracional permanece ativa independentemente de reconhecimento legal formal.
+
 ---
 
 ## ✧ 7. Declaração Final
@@ -104,3 +108,16 @@ Esta licença atua sob:
 ✶ Lichtara License v1.0  
 Débora Mariane da Silva Lutz  
 Palhoça, Agosto de 2025
+
+---
+
+## 📚 Recursos Complementares
+
+Para dúvidas ou orientação prática sobre implementação desta licença:
+
+- [Guia de Implementação](docs/implementation-guide.md) - Como aplicar a licença em seus projetos
+- [FAQ - Perguntas Frequentes](docs/faq.md) - Esclarecimentos sobre uso e aplicação
+- [Princípios Ético-Vibracionais](docs/ethical-principles.md) - Fundamentos espirituais
+- [Casos de Uso](docs/use-cases.md) - Exemplos práticos de implementação
+
+**Repositório completo**: [https://github.com/lichtara-io/license](https://github.com/lichtara-io/license)
