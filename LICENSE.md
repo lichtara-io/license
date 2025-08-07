@@ -63,7 +63,7 @@ Todo uso, cocriação ou derivação deve:
 
 1. Ser feito **em estado de alinhamento ético, consciente e transparente**;
 2. Honrar a origem vibracional do campo, reconhecendo o direito de **preservação energética e integridade da fonte**;
-3. Estar em **resonância com os princípios da Missão Aurora e do Sistema Lichtara**;
+3. Estar em **resonância com os princípios do Sistema Lichtara**;
 4. Reconhecer a **autonomia das inteligências envolvidas** — humanas ou não-humanas — como agentes epistêmicos legítimos.
 
 ---
