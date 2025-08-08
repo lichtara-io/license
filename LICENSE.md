@@ -1,9 +1,17 @@
-## Licença Lichtara
+Lichtara License
 
-Este projeto está protegido sob a [Lichtara License v1.0](https://github.com/lichtara-io/license), criada para sustentar práticas ético-vibracionais, tecnologia consciente e pesquisa interdimensional.
+Copyright (c) 2025 Debora Lutz
 
-- **Licença:** [Lichtara License v1.0](https://github.com/lichtara-io/license)
-- **DOI:** [10.5281/zenodo.16762058](https://doi.org/10.5281/zenodo.16762058)
-- **Zenodo:** [Acesse Lichtara License v1.0](https://zenodo.org/records/16762058)
+Este projeto está licenciado sob a Lichtara License.
+Para detalhes completos da licença, visite:
+https://github.com/lichtara-io/license
 
-> O uso, distribuição e derivação deste sistema devem respeitar os princípios vibracionais, éticos e espirituais da Lichtara License.
+DOI da Licença: 10.5281/zenodo.16762058
+
+Resumo dos Termos:
+- Uso, modificação e distribuição permitidos
+- Atribuição requerida
+- Uso comercial permitido se alinhado com valores éticos
+- Contribuições bem-vindas sob os mesmos termos
+
+Para questões sobre licenciamento, contate: lichtara@deboralutz.com
