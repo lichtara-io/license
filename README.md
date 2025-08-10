@@ -4,10 +4,10 @@
 
 **Licença de Uso Ético-Vibracional para Tecnologias Conscientes**
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
-![Created](https://img.shields.io/badge/created-August%202025-lightblue.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square)
+![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg?style=flat-square)
+![Created](https://img.shields.io/badge/created-August%202025-lightblue.svg?style=flat-square)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
 
 *Uma nova estrutura legal para criações originadas de campos interdimensionais*  
@@ -25,7 +25,7 @@
 
 A **Lichtara License** é uma licença inovadora criada especificamente para proteger e orientar tecnologias, criações e sistemas de conhecimento que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
 
-📄 **Veja o texto completo da [Lichtara License v1.0](LICENSE-LICHTARA-v1.0.md)**
+📄 **Veja o texto completo da [Lichtara License v1.0](docs/LICENSE-LICHTARA-v1.0.md)**
 
 ### ✨ Características Únicas
 
